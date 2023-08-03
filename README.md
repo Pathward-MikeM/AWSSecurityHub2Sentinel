@@ -1,0 +1,1 @@
+# AWSSecurityHub2Sentinel
